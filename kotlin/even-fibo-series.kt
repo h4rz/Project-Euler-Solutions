@@ -5,16 +5,14 @@
  */
 
 fun main() {
-    val series = mutableListOf<Int>()
-    var i = 3
+    var a = 1
+    var b = 2
     var sum = 2
-    series.add(1)
-    series.add(2)
-    while (series[i-2] < 4000000) {
-        val curr = series[i-1-1] + series[i-2-1]
-        if (curr % 2 == 0) sum += curr
-        series.add(curr)
-        i += 1
+    while (b < 4000000) {
+        val next = a + b
+        if (next % 2 == 0) sum += next
+        a = b
+        b = next
     }
 
     println(sum)
