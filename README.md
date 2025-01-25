@@ -23,4 +23,4 @@ Currently, my major focus will be on Python. Later on, I will be adding support 
 
 | No.   	| Problem Statement  	| Python   	| C  	| Kotlin  	| Swift  	| Dart  	|
 |---	|---	|---	|---	|---	|---	|---	|
-|  01 	|  [Multiples of 3 and 5](https://projecteuler.net/problem=1)  	|   	|   	|   	|   	|   	|
+|  01 	|  [Multiples of 3 and 5](https://projecteuler.net/problem=1)  	|   	|   	|   :white_check_mark:	|   	|   	|
