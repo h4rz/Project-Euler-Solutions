@@ -25,4 +25,5 @@ Currently, my major focus will be on Python. Later on, I will be adding support 
 |---	|---	|---	|---	|---	|---	|---	|
 |  01 	|  [Multiples of 3 and 5](https://projecteuler.net/problem=1)  	|   	|   	|   :white_check_mark:	|   	|   	|
 |  02 	|  [Even Fibonacci Numbers](https://projecteuler.net/problem=2)  	|   	|   	|   :white_check_mark:	|   	|   	|
-|  02 	|  [Largest Prime Factor](https://projecteuler.net/problem=3)  	|   	|   	|   :white_check_mark:	|   	|   	|
+|  03 	|  [Largest Prime Factor](https://projecteuler.net/problem=3)  	|   	|   	|   :white_check_mark:	|   	|   	|
+|  04 	|  [Largest Palindrome Product](https://projecteuler.net/problem=4)  	|   	|   	|   :white_check_mark:	|   	|   	|
